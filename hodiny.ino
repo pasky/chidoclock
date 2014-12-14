@@ -4,8 +4,8 @@ const static int pins_hB[4] = { A3, A2, A1, A0 };
 const static int pins_mA[3] = { 12, 11, 10 };
 const static int pins_mB[4] = { 9, 8, 7, 6 };
 const static int pin_s = 5; // pwm
-const static int pinbtn_h = 3;
-const static int pinbtn_m = 4;
+const static int pinbtn_h = 4;
+const static int pinbtn_m = 3;
 const static int pin_ledA = 13;
 const static int pin_ledB = 2;
 
